@@ -16,7 +16,7 @@ An unofficial REST API wrapper, complete with an optional structure-based wrappe
 
 # Quick Installation Guide
 ```
-npm install modrinth.ts
+npm install noderinth
 ```
 
 ## REST-Only
